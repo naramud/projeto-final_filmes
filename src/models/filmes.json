@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Hereditário",
+        "launchYear": "2018",
+        "favorited": true,
+        "genero": ["Terror/Drama"]
+
+
+    },
+    {
+        "id": 2,
+        "title": "Vingadores: Ultimato",
+        "launchYear": "2019",
+        "favorited": true,
+        "genero": ["Ação/Ficção Cientifica"]
+    },
+    {
+        "id": 3,
+        "title": "Constantine",
+        "launchYear": "2005",
+        "favorited": true,
+        "genero": ["Terror/Fantacia"]
+    },
+    {
+        "id": 4,
+        "title": "Homem-Aranha: Sem Volta para Casa",
+        "launchYear":"2021",
+        "favorited": true,
+        "genero":[" Ação/Aventura"]
+    }    
+]
